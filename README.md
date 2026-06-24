@@ -128,4 +128,4 @@ Build.
 ![Demo](https://github.com/pgkt04/defender-control/blob/main/resources/demo.gif?raw=true)
 
 ## Release
-You can find releases on the right, or [here](https://github.com/pgkt04/defender-control/releases/tag/v1.2).
+You can find releases on the right, or [here](https://github.com/pgkt04/defender-control/releases).
